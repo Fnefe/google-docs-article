@@ -1,2 +1,2 @@
 #INTRODUCTION
-Google Docs is a free, web-based word processor developed by google and first released in 2006. it allows users to create, edit and collaborate on documents in real time, as long as the user has a google account and internet access.
+Google Docs is a free, web-based word processor developed by google and first released in 2006. it allows you to create, edit and collaborate on documents in real time, as long as you have a google account and internet access.
