@@ -1,5 +1,6 @@
 ## Inserting Images, Tables and Links
-You caan add images, tables and links using Google Docs to ehance documentation. 
+You can add images, tables and links using Google Docs to ehance documentation. 
+
 ---
 
 ### Insert Image
@@ -14,7 +15,7 @@ Alternatively on the tool bar:
 
 ### Inserting Tables
 1. Click where you want the table
-2. Go to **Inser** 
+2. Go to **Insert** 
 3. Select **Table** 
 4. Select the number of rows and columns
 5. Click to insert taable

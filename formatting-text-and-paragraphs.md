@@ -1,10 +1,11 @@
 ## Formating Text and Paragraphs
 Google Docs provides option for you to customise the appearance of your document.
+
 ---
 ### Make Text Bold, Italics, Underline
-- **Bold**: Select the text → Click **B** in the tool bar or press ctrl + B
-- **Italics**: Select text → click **I** in tool bar or ctrl + I
-- **Underline**: Select text → click **U** in tool bar or ctrl + U
+- **Bold**: Select the text → Click **B** in the tool bar or press `ctrl\⌘+ B`
+- **Italics**: Select text → click **I** in tool bar or `ctrl\⌘ + I`
+- **Underline**: Select text → click **U** in tool bar or `ctrl\⌘ + U`
 
 Alternatively, 
 
@@ -29,13 +30,15 @@ Alternatively,
 - Click the icon on the right of the A icon to highlight text
 
 ### Align and Indent Text
+
 #### Align Text
 - Click the alignment and indent icon on the tool bar or go to **Format and select Align and Indent**
 - Choose your alignment options
-  - **Left**: `Ctrl + Shift + L`
-  - **Right**: `Ctrl + Shift + R`
-  - **Centre**: `Ctrl + Shift + E`
-  - **Juatify**: `Ctrl + Shift + J`
+  - **Left**: `Ctrl\⌘ + Shift + L`
+  - **Right**: `Ctrl\⌘ + Shift + R`
+  - **Centre**: `Ctrl\⌘ + Shift + E`
+  - **Juatify**: `Ctrl\⌘ + Shift + J`
+  
 #### Indent Text
 - Click the three dots on the extreme right of the tool bar 
 - Select indent option 

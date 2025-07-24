@@ -1,11 +1,14 @@
  ## Accessing Google Docs
  You can access Google Docs on a range of devices: smatphones, laptops, tablets and desktops. All you need is a **Google account** and an internet connection.
+
  ---
  ### 1. Web browser
  Google Docs is supported on Goolge chrome, Safari, Firefox and Microsoft Edge.
  - Visit [docs.google.com](https://docs.google.com) in your browser
  - Sign in with your google account
+
  Alternatively,
+ 
  - Click **Google Apps icon** on a web browsers in services like Gmail, Drive, Sheet or Slides
  - Select **Docs** from dropdown menu
 

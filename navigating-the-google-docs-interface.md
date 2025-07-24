@@ -1,8 +1,10 @@
 ## Navigating The Google Docs Interface
-Understanding the Google Docs interfece is important in using it's features effectively. This is a breakdown of key areas you will encounter when you create a document. 
+Understanding the Google Docs interface is important in using it's features effectively. This is a breakdown of key areas you will encounter when you create a document. 
+
 ---
 ### 1. Title Bar
-Located at the Top left is the title of your document. It is displayed as Untitiled Document. Clicck and edit document title. 
+Located at the Top left is the title of your document. It is displayed as Untitiled Document. Click and edit document title. 
+
 ### 2. Menu Bar
 It runs horizontaly immediately after the title bar. It contains:
 - **File:** Contains create, open, save, download and print document. 
@@ -35,5 +37,3 @@ At the top right, same line as the title bar, you will find:
 
 ### Comment and Suggestion Panel
 On the right side margin you will see icons of comments, chats and version history when collaborating.
-
-
