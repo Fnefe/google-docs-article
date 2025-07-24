@@ -11,5 +11,5 @@ This document is for users new to google docs
 8. [Sharing and Collaborating](./sharing-and-collaborating.md)
 9. [Downloading and Printing Documents](./downloading-and-printing-documents.md)
 10. [Tips and Tricks for Beginners](./tips-and-tricks-for-beginners.md)
-11. [Trouble Shooting common Issues](./trouble-shooting-comon-issues.md)
+11. [Common Trouble Shooting Tips](./common-trouble-shooting-tips.md)
 12. [Conclusion](./conclusion.md)

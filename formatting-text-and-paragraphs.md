@@ -5,7 +5,9 @@ Google Docs provides option for you to customise the appearance of your document
 - **Bold**: Select the text → Click **B** in the tool bar or press ctrl + B
 - **Italics**: Select text → click **I** in tool bar or ctrl + I
 - **Underline**: Select text → click **U** in tool bar or ctrl + U
+
 Alternatively, 
+
 - Select text
 - Click **Format** on the menu bar 
 - Select **Text** from the dropdown menu 
@@ -37,7 +39,9 @@ Alternatively,
 #### Indent Text
 - Click the three dots on the extreme right of the tool bar 
 - Select indent option 
+
 or,
+
 - Click format on menu bar 
 - Select **Align & Indent** 
 - Select to increase or decrease indent
