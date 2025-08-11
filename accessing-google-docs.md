@@ -8,7 +8,7 @@
  - Sign in with your google account
 
  Alternatively,
- 
+
  - Click **Google Apps icon** on a web browsers in services like Gmail, Drive, Sheet or Slides
  - Select **Docs** from dropdown menu
 
@@ -20,7 +20,9 @@
  Alternatively, you can open Docs from other mobile Google applicaions
  - Tap **"+"** in Google Drive app 
  - Select **"Google Docs"**
+
  Or,
+ 
  - Visit [docs.google.com](https://docs.google.com) in **Google Chrome** mobile browser
  - Sign in
  

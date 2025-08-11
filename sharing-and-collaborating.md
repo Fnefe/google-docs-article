@@ -15,11 +15,13 @@ When sharing you can control what others can do. You have three options when add
 - **View**: Can only read the document.
 - **Comment**: Can comment or add suggestions.
 - **Edit**: Can make changes to document.
+
 ![alt text](path/to/image.png)
  Figure [11].(Permission Options for adding email address)
  Image source: [wordable.io/using-google-docs]
 
 For the option of **get sharable link** you also get to select what happens for anyone with the link to your documentation.
+
 ![alt text](path/to/image.png)
  Figure [12]. (Permission Options for Get sharable link)
  Image source: [wordable.io/using-google-docs]
