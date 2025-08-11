@@ -24,24 +24,35 @@ To enable and use voice typing do the following:
  
  |Actions                    | Windows/ Linux                     | Mac                                       |
  |-------------------------------------------|-------------------------------|--------------------------------|
+ | **Create & Manage Documents**             |                               |                                |
  | Create new document (in Google Drive tab) | `Ctrl + Shift + T`            | `Command + Shift + T`          |
+ | Open a document                           | `Ctrl + O`                    | `Command + O`                  |
+ | Save document                             | `Ctrl + S`                    | `Command + S`                  |
+ | **Text Formatting & Styling**             |                               |                                |
  | Underline text                            | `Ctrl + U`                    | `Commant + U`                  |
  | Bold text                                 | `Ctl + B`                     | `Command + B`                  |
  | Italize text                              | `Ctrl + I`                    | `Command + I`                  |
  | Strikethrough text                        | `Alt + Shift + 5`             | `Command + Shift + X`          |
+ | Increase font size                        | `Ctrl + Shift + >`            | `Command + Shift + >`          |
+ | Apply heading (1 for heading 1)           | `Ctrl + Shift + 1`            | `Command + Shift + !`          |
+ | **Editing**                               |                               |                                |
  | Copy                                      | `Ctrl + C`                    | `Command + C`                  |
  | Cut                                       | `Ctrl + X`                    | `Command + X`                  |
- | Paste                                     | `Ctrl + P`                    | `Command + P`                  |
+ | Paste                                     | `Ctrl + V`                    | `Command + V`                  |
+ | Undo                                      | `Ctrl + Z`                    | `Command + Z`                  |
+ | Redo                                      | `Ctrl + Y`                    | `Command + Y`                  |
+ | **Selection & Alignment**                 |                               |                                |
  | Select all                                | `Ctrl + A`                    | `Command + A`                  |
  | Center text                               | `Ctrl + Shift + E`            | `Command + Shift + E`          |
  | Left Align                                | `Ctrl + Shift + L`            | `Command + Shift + L`          |
  | Right align                               | `Ctrl + Shift + R`            | `Command + Shift + R`          |
  | Justify text                              | `Ctrl + J`                    | `Command + J`                  |
- | Increase font size                        | `Ctrl + Shift + >`            | `Command + Shift + >`          |
- | Apply heading (1 for heading 1)           | `Ctrl + Shift + 1`            | `Command + Shift + !`          |
+ | **Inserting & Collaboration**             |                               |                                |
  | Insert link                               | `Ctrl + K`                    | `Command + K`                  |
  | Add comments                              | `Ctrl + Alt + M`              | `Command + Option + M`         |
+ | **Tools & Document Info                   |                               |                                |
  | Show version history                      | `Ctrl + Alt + Shift + H`      | `Commant + Option + Shit+ H`   |
  | Check word count                          | `Ctrl + Shift + C`            | `Command + Shift + C`          |
  | Open dictionary                           | `Ctrl + Shift + y`            | `Command + Shift + y`          |
+ | **Help & Shortcuts**                      |                               |                                |
  | Display list of Google docs shortcuts     | `Ctrl + /`                    | `Command + /`                  |
