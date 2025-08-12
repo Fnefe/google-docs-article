@@ -10,9 +10,9 @@ It runs horizontaly immediately after the title bar. It contains:
 - **File:** Contains create, open, save, download and print document. 
 - **Edit:** Drop down menu containing undo, redo, copy, paste...
 - **View:** Contains zoom, show rulers or outline.
-- **Insert:** Add image, table, links, charts...
-- **Format:** Text style, alignment, line spacing...
-- **Tools:** Spell check, word count, voice typing...
+- **Insert:** Add image, table, links, charts.
+- **Format:** Text style, alignment, line spacing.
+- **Tools:** Spell check, word count, voice typing.
 - **Extension:** Add-ond and integrations.
 - **Help:** Search and support options.
 
@@ -29,11 +29,7 @@ Just below the menu bar and provides quick access to commonly used function:
 This is the main white space where you type and edit your document.
 
 ### Status Indicator
-At the top right, same line as the title bar, you will find:
-- Share
-- Comment 
-- Last edit 
-- Join call
+At the top right, same line as the title bar, you will find:Share, Comment, Last edit and Join call. 
 
 ### Comment and Suggestion Panel
 On the right side margin you will see icons of comments, chats and version history when collaborating.

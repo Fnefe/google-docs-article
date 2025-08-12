@@ -29,8 +29,6 @@ Alternatively,
 - Click the **"A icon"** in the tool bar to change text colur
 - Click the icon on the right of the A icon to highlight text
 
-### Align and Indent Text
-
 #### Align Text
 - Click the alignment and indent icon on the tool bar or go to **Format and select Align and Indent**
 - Choose your alignment options
@@ -58,6 +56,7 @@ or,
 - Click the **bullet (.) icon** or **number (1) icon** on the toolbar
 - Select from the dropdown menu a different list style
 or, 
+
 - Click format in the menu bar
 - Select **Bullets & Numbering** 
 - Select from bullet or number list

@@ -1,5 +1,5 @@
 ## Tips and Tricks for Beginners
-There  are hidden gems and clever tips and tricks in Google Docs, that can optimize your document creation experience and make you more productive.
+There  are tips and tricks in Google Docs, that can optimize your document creation experience and make you more productive.
 
 ---
 ### Using Templates
@@ -56,3 +56,33 @@ To enable and use voice typing do the following:
  | Open dictionary                           | `Ctrl + Shift + y`            | `Command + Shift + y`          |
  | **Help & Shortcuts**                      |                               |                                |
  | Display list of Google docs shortcuts     | `Ctrl + /`                    | `Command + /`                  |
+
+ ### Access Documents Offline
+ This feature allows you edit documents without internet access. 
+ Use these steps to make your document avialable offline:
+ 1. Click on **"file"** in the menu bar.
+ 2. Select **"Make avialable offline"**.
+
+ ### Using Add-Ons
+ Add-ons are third-party tools that integrates directly into Google Docs which improves productivity and workflow. 
+ Follow these steps to install and use add-ons:
+ 1. Click Extentions > Add-ons > Get Add-ons
+ 2. Search for the Add-on you want.
+ 3. Click **Install** and follow the on-screen prompt
+ 
+ Example of useful Add-on 
+ - **Grammarly**: For grammar and spellingcheck.
+ - **Power Thesaurus**: For synonyms and antonyms.
+ - **EasyBib Bibliography Creator**: Create Citation in various formats.
+ 
+ ### Explore for Research Tools
+ Google Docs removes the need to move from tab to tab for research. To access this feature do the following:
+ 1. Click **Tools**.
+ 2. Select **Explore**.
+
+ The menu pop-up menu allows you to:
+ - Conduct web search.
+ - Browse for images.
+ - Search existing document on yoour Google Drive.
+
+ 
