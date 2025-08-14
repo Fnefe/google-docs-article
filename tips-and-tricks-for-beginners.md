@@ -90,17 +90,5 @@
  - **EasyBib Bibliography Creator**: Create Citation in various formats.
  
  ---
- ### Explore for research tools
 
- Google Docs removes the need to move from tab to tab for research. To access this feature do the following:
- 1. Click **Tools**.
- 2. Select **Explore**.
-
- The pop-up menu allows you to:
- - Conduct web search.
- - Browse for images.
- - Search existing document on yoour Google Drive.
-
- ---
-
- 
+    

@@ -1,4 +1,4 @@
- ## Formatting Text and 
+ ## Formatting text and paragraph
  
  Google Docs provides options for you to customize the appearance of your document.
 
@@ -26,7 +26,7 @@
   - **Normal text** to revert.
 
  ---
- ### Change Font Style and Size 
+ ### Change Font style and size 
  1. Click the font name (for example, **"Arial"**) in the toolbar, then select a font
  2. Click the number next to the font name (usually 11) to change the font size
 

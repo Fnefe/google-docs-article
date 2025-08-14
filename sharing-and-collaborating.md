@@ -55,3 +55,5 @@
  1. Go to **File**.
  2. Click **Version history** → **See version history**.
  3. You can see who made changes ore restore an earlier version.
+
+ ----

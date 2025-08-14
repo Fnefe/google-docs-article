@@ -4,7 +4,7 @@ This document is for users new to Google Docs.
 
 ---
 
-## Table of Content
+## Table of content
 1. [Introduction](./introduction.md)
 2. [What is Google Docs?](./what-is-google-docs.md)
 3. [Accessing Google Docs](./accessing-google-docs.md)
