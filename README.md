@@ -1,4 +1,4 @@
-# Getting Started with Google Docs
+![Google Docs overview banner](images/readme.png)
 
 This document is for users new to Google Docs.
 

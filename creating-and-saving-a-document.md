@@ -9,6 +9,8 @@ Start a new document on Google Docs. Your document's progress saves automaticall
  - Sign in using any of the steps in **Accessing Google Docs** section.
  - Click the blank document with the plus sign, or choose from the **Template Gallery**.
 
+![Creating a new document in Google Docs](images/Creating-a-new-document.png)
+
  --- 
  ### How saving works
 
@@ -16,5 +18,4 @@ Start a new document on Google Docs. Your document's progress saves automaticall
 
  ---
  >Tip: Stay connected to the internet to ensure changes sync properly to Google Drive.
-
  ---

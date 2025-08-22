@@ -6,28 +6,31 @@
 
  ### Insert image
 
- - Click where you want to insert the image.
- - Click **Insert** on the menu bar.
- - Select **image** you want to add.
- - Choose from the options displayed to select an image
+ 1. Click **Insert** on the menu bar.
+ 2. Select **image** you want to add.
+ 3. Choose from the options displayed to select an image
 
- Alternatively on the toolbar:
- 
- - Select the **image icon** to insert an image.
+ ![Inserting an image in Google Docs](images/insert-image.png)
+
+ Alternatively on the toolbar select the **image icon** to insert an image.
 
  ### Inserting tables
 
- 1. Click where you want the table.
- 2. Go to **Insert** select **Table**. 
- 3. Select the number of rows and columns.
- 4. Click to insert table.
+ 1. Go to **Insert**, select **Table**. 
+ 2. Select the number of rows and columns.
+ 3. Click to insert table.
+
+ ![Inserting a table in Google Docs](images/insert-tables.png)
 
  ---
  ### Inserting links
+ 1. Go to **Insert** → Click link.
 
- 1. Click where you want the link or Highlight text.
- 2. Go to **Insert** → Click link.
- 3. Paste the URL or search a website or document. 
- 4. Click **Apply** to add link.
+ ![Inserting a link in Google Docs](images/insert-link-1.png)
+ 
+ 2. Paste the URL or search a website or document. 
+ 3. Click **Apply** to add link.
+
+ ![Adding text or URL in the link dialog box](images/insert-link-2.png)
 
  >**Tip**: To edit or remove link, click the link text and select the appropriate option.
