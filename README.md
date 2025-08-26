@@ -8,7 +8,7 @@ This document is for users new to Google Docs.
 1. [Introduction](./introduction.md)
 2. [What is Google Docs?](./what-is-google-docs.md)
 3. [Accessing Google Docs](./accessing-google-docs.md)
-4. [Creating and saving documents](./creating-and-saving-documents.md)
+4. [Creating and saving a document](./creating-and-saving-a-document.md)
 5. [Navigating the Google Docs interface](./navigating-the-google-docs-interface.md)
 6. [Formatting text and paragraphs](./formatting-text-and-paragraphs.md)
 7. [Inserting images, tables and links](./inserting-images-tables-and-links.md)
