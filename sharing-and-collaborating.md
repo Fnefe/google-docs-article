@@ -12,7 +12,7 @@
    - **Add people, groups** by entering their email address, or
    - Click **copy link**.
  
- ![Sharing a document in Google Docs](images/share-document-1.png)
+ ![Sharing a document in Google Docs](images/share-document-1.PNG)
 
  ---
  ### Setting permissions
@@ -24,7 +24,7 @@
 
  For the option of **copy link**, you also get to select what happens for anyone with the link to your documentation.
 
- ![Setting permission for collaborators in Google Docs](images/settingpermission.png)
+ ![Setting permission for collaborators in Google Docs](images/settingpermission.PNG)
 
  ---
  ### Collaborating in real time
@@ -33,7 +33,7 @@
  - Changes save automatically.
  - Highlight text and click the **comment icon** to leave comments.
 
- ![Collaborating in real time in Google Docs](images/collaborating-in-real-time.png)
+ ![Collaborating in real time in Google Docs](images/collaborating-in-real-time.PNG)
  ---
 
  ### Using comment and suggestions
@@ -43,7 +43,7 @@
   - Type in what you want changed in suggestion.
   - The document owner will accept or reject.
 
- ![Using comments and suggestions in Google Docs](images/comment-and-suggestion-panel.png)
+ ![Using comments and suggestions in Google Docs](images/comment-and-suggestion-panel.PNG)
 
  ---
 
@@ -52,7 +52,7 @@
  1. Go to **File**.
  2. Click **Version history** → **See version history**.
 
- ![Version history in Google Docs](images/version-history.png)
+ ![Version history in Google Docs](images/version-history.PNG)
 
  You can see who made changes or restore an earlier version.
 

@@ -1,4 +1,4 @@
-![Google Docs overview banner](images/readme.png)
+![Google Docs overview banner](images/readme.PNG)
 
 This document is for users new to Google Docs.
 

@@ -5,7 +5,7 @@
  ### 1. Title bar
 
  Located at the top left, the title bar displays your document. By defaault, it appears as **Untitiled Document**. Click the title to rename your document. 
-  ![itle bar in Google Docs](images/title-bar.png)
+  ![itle bar in Google Docs](images/title-bar.PNG)
 
  ---
  ### 2. Menu bar
@@ -19,7 +19,7 @@
  - **Extension:** Add-ons and integrations.
  - **Help:** Search and support options.
 
-  ![Menu bar in Google Docs](images/menu-bar.png)
+  ![Menu bar in Google Docs](images/menu-bar.PNG)
 
  ---
  ### 3. Toolbar
@@ -32,13 +32,13 @@
  - Insert link, Image, and Comment.
  - Text alignment options.
  
-  ![Toolbar in Google Docs](images/tool-bar.png)
+  ![Toolbar in Google Docs](images/tool-bar.PNG)
 
  ---
  ### Working area
  
  This area is where you type and edit your document.
-  ![Working area in Google Docs](images/working-area.png)
+  ![Working area in Google Docs](images/working-area.PNG)
   
  ---
  ### Collaboration controls
@@ -47,11 +47,4 @@
  
  ![Collaboration controls in Google Docs](images/collaboration-controls.png)
  
- ---
- ### Comment and suggestion panel
-
- On the right margin you will see icons for comments, chats, and version history when collaborating.
-
-![Comments and suggestions panel in Google Docs](images/comment-and-suggestion-panel.png)
-
  ---

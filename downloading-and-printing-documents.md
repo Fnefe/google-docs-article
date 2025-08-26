@@ -9,7 +9,7 @@
  2. Select **Download**.
  3. Select prefered format.
 
- ![Download options in Google Docs](images/download-document.png)
+ ![Download options in Google Docs](images/download-document.PNG)
 
  ---
  ### Print a document
@@ -17,6 +17,6 @@
  1. Click **File**.
  2. Select **Print**.
  
- ![Print document option in Google Docs](images/print-document.png)
+ ![Print document option in Google Docs](images/print-document.PNG)
 
  ---

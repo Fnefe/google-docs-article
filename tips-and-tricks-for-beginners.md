@@ -11,7 +11,7 @@
  - Highlight the word. 
  - Right-click and select **Define**.
 
- ![Using the dictionary in Google Docs](images/using-dictionary.png)
+ ![Using the dictionary in Google Docs](images/using-dictionary.PNG)
  
  ---
  ### Voice typing 
@@ -23,7 +23,7 @@
  3. Click the microphone icon to start speaking.
  4. Move your cursor to any part of the document to make corrections without turning off the microphone.
 
- ![Voice typing in Google Docs](images/voice-typing.png)
+ ![Voice typing in Google Docs](images/voice-typing.PNG)
 
  >Tips: You can dictate punctuations such as periods, comma and exclamation marks.
  ---
@@ -82,13 +82,13 @@
  2. Search for the Add-on you want.
  3. Click **Install** and follow the on-screen prompt
 
- ![Extensions dropdown for add-ons in Google Docs](images/add-ons.png)
+ ![Extensions dropdown for add-ons in Google Docs](images/add-ons.PNG)
 
  Example of useful Add-on
  - **Power Thesaurus**: For synonyms and antonyms.
  - **EasyBib Bibliography Creator**: Create Citation in various formats.
  
- ![Google Docs add-ons marketplace](images/add-ons-2.png)
+ ![Google Docs add-ons marketplace](images/add-ons-2.PNG)
  
  ---
 

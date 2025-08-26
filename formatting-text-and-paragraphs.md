@@ -16,7 +16,7 @@
  3. Select **Text** from the dropdown menu. 
  4. Choose **bold**, **italic**, or **Underline**. 
 
- ![Format menu showing bold, italic and underline options](images/formatting-text-and-paragraph-1.png)
+ ![Format menu showing bold, italic and underline options](images/formatting-text-and-paragraph-1.PNG)
 
  ---
  ### Apply styles and headings
@@ -33,17 +33,17 @@
  1. Click the font name (for example, **"Arial"**) in the toolbar, then select a font
  2. Click the number next to the font name (usually 11) to change the font size
 
- ![Font style and size options ib Google Docs](images/change-font-style-and-size.png)
+ ![Font style and size options ib Google Docs](images/change-font-style-and-size.PNG)
 
  ---
  ### Change text colour and highlight
  - Click the **A** icon in the toolbar to change text colour.
 
- ![Text colour options](images/change-text-colour.png)
+ ![Text colour options](images/change-text-colour.PNG)
 
  - Click the highlighter icon on the right of the A icon to highlight text.
 
- ![Text highlight options](images/highlight-text-colour.png)
+ ![Text highlight options](images/highlight-text-colour.PNG)
 
  ---
  ### Text alignment and indent
@@ -66,21 +66,21 @@
  - Select **Align & Indent** 
  - Select to increase or decrease indent
 
- ! [Text alignment and indent options in Google Docs](images/align-and-indent-text.png)
+ ! [Text alignment and indent options in Google Docs](images/align-and-indent-text.PNG)
  ---
  ### Adjust Line Spacing
  - Go to **Format** 
  - Click **Line and paragraph spacing**
  - Choose a spacing option 
 
- ![Adjust line spacing in Google Docs](images/adjust-line-spacing.png)
+ ![Adjust line spacing in Google Docs](images/adjust-line-spacing.PNG)
 
  ---
  ### Create Bullet or Numbered Lists
  - Click the **bullet (.) icon** or **number (1) icon** on the toolbar
  - Select from the dropdown menu a different list style
 
- ![Creating bullet options in Google Docs](images/bullet-and-number.png)
+ ![Creating bullet options in Google Docs](images/bullet-and-number.PNG)
 
  or, 
 
@@ -88,6 +88,6 @@
  - Select **Bullets & Numbering** 
  - Select from bullet or number list
 
- ![Format menu dropdown to creat bullets or numbers in Google Docs](images/bullets-and-numbers.png)
+ ![Format menu dropdown to creat bullets or numbers in Google Docs](images/bullets-and-numbers.PNG)
  
  ---
